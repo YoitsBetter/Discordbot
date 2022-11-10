@@ -1,1 +1,4 @@
 node_modules
+runner
+nohup.out
+.env
