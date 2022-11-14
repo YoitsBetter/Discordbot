@@ -20,3 +20,17 @@ client.handleCommands();
 client.login(token);
 
 //npm run test//
+
+//screen -S BetterBot (creates a 24/7)//
+//screen -r BetterBot (goes /\ )
+//screen -h (show everything)
+//screen -ls running terminal//
+
+
+
+// MAKE CHANGES TO SCREEN TERMINAL AND PUSH THERE TOO HAHAH//
+
+
+
+//sh runner/start.sh
+//sh runner/stop.sh
